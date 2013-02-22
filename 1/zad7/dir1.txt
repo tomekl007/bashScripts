@@ -1,0 +1,43 @@
+
+
+               3 Dir(s)     322,314,240 bytes free
+              33 File(s)      6,112,441 bytes
+ Directory of C:\totalcmd
+ Volume in drive C has no label.
+ Volume Serial Number is 1493-94AE
+15-Mar-12  19:40    <DIR>          LANGUAGE
+15-Mar-12  19:41            21,262 default.br2
+15-Mar-12  19:41    <DIR>          .
+15-Mar-12  19:41    <DIR>          ..
+16-Dec-10  23:00                26 NO.BAR
+16-Dec-10  23:00               977 DEFAULT.BAR
+17-Dec-10  06:56               106 WCUNINST.WUL
+17-Dec-10  06:56               585 SIZE!.TXT
+17-Dec-10  06:56             1,261 TOTALCMD.EXE.MANIFEST
+17-Dec-10  06:56             1,633 WCMICONS.INC
+17-Dec-10  06:56             1,642 descript.ion
+17-Dec-10  06:56             1,704 TCUNINST.WUL
+17-Dec-10  06:56             2,106 SHARE_NT.EXE
+17-Dec-10  06:56             3,309 REGISTER.RTF
+17-Dec-10  06:56             3,328 WC32TO16.EXE
+17-Dec-10  06:56             7,259 CGLPT9X.VXD
+17-Dec-10  06:56             7,680 FRERES32.DLL
+17-Dec-10  06:56            10,832 KEYBOARD.TXT
+17-Dec-10  06:56            14,424 CGLPTNT.SYS
+17-Dec-10  06:56            21,272 TOTALCMD.INC
+17-Dec-10  06:56            23,656 CGLPT64.SYS
+17-Dec-10  06:56            37,648 TCUNINST.EXE
+17-Dec-10  06:56            40,720 TcUsbRun.exe
+17-Dec-10  06:56            40,960 SFXHEAD.SFX
+17-Dec-10  06:56            43,008 CABRK.DLL
+17-Dec-10  06:56            70,144 TCMDLZMA.DLL
+17-Dec-10  06:56            73,488 TCMADMIN.EXE
+17-Dec-10  06:56            77,312 UNACEV2.DLL
+17-Dec-10  06:56           117,624 TCMDX64.EXE
+17-Dec-10  06:56           120,184 TCUNZLIB.DLL
+17-Dec-10  06:56           123,536 WCMZIP32.DLL
+17-Dec-10  06:56           165,376 UNRAR.DLL
+17-Dec-10  06:56           311,536 HISTORY.TXT
+17-Dec-10  06:56           420,675 TOTALCMD.CHM
+17-Dec-10  06:56           639,360 WCMICONS.DLL
+17-Dec-10  06:56         3,707,808 TOTALCMD.EXE

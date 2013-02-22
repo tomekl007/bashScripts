@@ -1,0 +1,6 @@
+aby móc otwrorzyæ folder, musi on mieæ nadane uprawnienia X(execute).(rwx, r-x, -wx lub --x)
+Jeœli folder nie bêdzie mia³ nadanych uprawnien R(read), to mo¿na do niego wejœæ, ale nie mo¿na podgl¹dn¹æ(ls)
+jakie pliki siê w nim znajduj¹(files not visible)-> mo¿na natomiast pliki te odczytywaæ, pisaæ do nich i wykonywaæ, tylko trzeba
+znaæ ich nazwê(-wx i -xx pliki w folderze nie bêd¹ widzialne).
+
+Aby wykonaæ plik(executr) musi on mieæ --x. Wtedy jednak nie mo¿na go przegl¹dn¹æ ani zapisaæ nic w nim.
